@@ -88,5 +88,5 @@ if inputAll:
     print("Added {} tags.".format(len(Names)))
     print("These are the tags added: {}".format(Names))
 else:
-    print("Nothing Done you fucker! No object selected!")
+    print("Nothing Done! No object selected!")
 
